@@ -6,7 +6,7 @@
       <stop offset="100%" stop-color="#FFF2A1" />
     </linearGradient>
 
-    <pattern id="dotPattern" x="0" y="0" width="16" height="16" patternUnits="userSpaceOnUse">
+    <pattern id="dotPattern" x="0" y="0" width="14" height="14" patternUnits="userSpaceOnUse">
       <circle cx="8" cy="8" r="2.5" fill="url(#voidGrad)" opacity="0.4" />
     </pattern>
 
