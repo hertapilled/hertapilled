@@ -50,3 +50,8 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 <p><font color="#E2F6FF">══════════════════════════════════════════════════════════════</font></p>
 
 </div>
+
+
+<p align="center">
+  <img src="./void.svg" alt="Void" />
+</p>
