@@ -3,7 +3,7 @@
     <linearGradient id="voidGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#301EBD" />
       <stop offset="45%" stop-color="#C8764A" />
-      <stop offset="100%" stop-color="#468892" />
+      <stop offset="100%" stop-color="#FFF2A1" />
     </linearGradient>
 
     <pattern id="dotPattern" x="0" y="0" width="16" height="16" patternUnits="userSpaceOnUse">
