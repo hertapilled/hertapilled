@@ -34,7 +34,7 @@ ${\textsf{\color{#84468c}"\ }}{\textsf{\color{#84468c}谜}}{\textsf{\color{#8446
 
   <br/><br/>
 
-   <img src="https://komarev.com/ghpvc/?username=hertapilled&color=e2c292&style=flat-square" alt="profile views" />
+   <img src="https://komarev.com/ghpvc/?username=hertapilled&color=ddab78&style=flat-square" alt="profile views" />
 
    </td>
 
