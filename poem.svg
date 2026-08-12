@@ -4,9 +4,9 @@
       <stop offset="0%" stop-color="#301EBD" />
       <stop offset="15%" stop-color="#301EBD" />
       <stop offset="40%" stop-color="#E08A58" />
-      <stop offset="65%" stop-color="#5A9FA1" />
-      <stop offset="85%" stop-color="#9EC3C5" />
-      <stop offset="100%" stop-color="#E7EBEC" />
+      <stop offset="65%" stop-color="#B4693E" />
+      <stop offset="85%" stop-color="#FFF2A1" />
+      <stop offset="100%" stop-color="#EFEACB" />
     </linearGradient>
 
     <filter id="rgb-glow" x="-20%" y="-20%" width="140%" height="140%">
