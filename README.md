@@ -59,3 +59,4 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 </p>
 
 
+<img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/35f1cfd1-b11e-40b8-940e-759291a90c0f" />
