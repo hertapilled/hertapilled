@@ -23,7 +23,7 @@
   <br/><br/>
 
    <p>
-${\textsf{\color{#71317A}H}}{\textsf{\color{#71317A}e}}{\textsf{\color{#71317A}r}}{\textsf{\color{#713786}t}}{\textsf{\color{#685a67}a}}{\textsf{\color{#ddab78}.}}{\textsf{\color{#ddab78}S}}{\textsf{\color{#ddab78}p}}{\textsf{\color{#ddab78}a}}{\textsf{\color{#e2c292}c}}{\textsf{\color{#e2c292}e}}{\textsf{\color{#e2c292}.}}{\textsf{\color{#f1d6aa}S}}{\textsf{\color{#f1d6aa}t}}{\textsf{\color{#f1d6aa}a}}{\textsf{\color{#e4ded4}t}}{\textsf{\color{#e4ded4}i}}{\textsf{\color{#ddab78}o}}{\textsf{\color{#ddab78}n}}$
+${\textsf{\color{#84468c}H}}{\textsf{\color{#84468c}e}}{\textsf{\color{#84468c}r}}{\textsf{\color{#713786}t}}{\textsf{\color{#685a67}a}}{\textsf{\color{#ddab78}.}}{\textsf{\color{#ddab78}S}}{\textsf{\color{#ddab78}p}}{\textsf{\color{#ddab78}a}}{\textsf{\color{#e2c292}c}}{\textsf{\color{#e2c292}e}}{\textsf{\color{#e2c292}.}}{\textsf{\color{#f1d6aa}S}}{\textsf{\color{#f1d6aa}t}}{\textsf{\color{#f1d6aa}a}}{\textsf{\color{#e4ded4}t}}{\textsf{\color{#e4ded4}i}}{\textsf{\color{#ddab78}o}}{\textsf{\color{#ddab78}n}}$
       </p>
 
   <br/><br/>
