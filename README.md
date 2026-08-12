@@ -39,7 +39,7 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
    </td>
 
   <td align="center" valign="middle" style="border: none !important;">
-      <img src="YOUR_HERTA_IMAGE_URL_HERE" width="400" alt="The Herta" />
+      <img src="https://private-user-images.githubusercontent.com/228995264/634908423-fbcd5389-908f-4ac7-9ab4-ac221284fcbb.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY1NDY3NzIsIm5iZiI6MTc4NjU0NjQ3MiwicGF0aCI6Ii8yMjg5OTUyNjQvNjM0OTA4NDIzLWZiY2Q1Mzg5LTkwOGYtNGFjNy05YWI0LWFjMjIxMjg0ZmNiYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxMlQxNDU0MzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNDFhZjg3NmQ0MGI4ODJlOGY3NTJmNDA4ZDM0MDFiNWM2YmMzZDYwZTI5Mzk0MGU0NmVhMTgwMzAzMDllZTExJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.s3faAVK5UWY7ZXV24pVQJ0dAR7dSgl9Bd1SJY5r7QKs" width="400" alt="The Herta" />
     </td>
 
   </tr>
@@ -56,4 +56,4 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
   <img src="./void.svg" alt="Void" />
 </p>
 
-<img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/fbcd5389-908f-4ac7-9ab4-ac221284fcbb" />
+
