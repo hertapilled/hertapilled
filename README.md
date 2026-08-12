@@ -55,3 +55,5 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 <p align="center">
   <img src="./void.svg" alt="Void" />
 </p>
+
+<img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/fbcd5389-908f-4ac7-9ab4-ac221284fcbb" />
