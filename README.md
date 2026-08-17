@@ -1,61 +1,46 @@
 
-<p align="center">
-  <img src="./poem.svg" alt="Poem" />
-</p>
-
 <div align="center">
 
-<p><font color="#801D38">══════════════════════════════════════════════════════════════</font></p>
+  <!-- Left Side: Hyacine PNG -->
+  <img align="left" width="58%" style="margin-right: -10px;" src="https://private-user-images.githubusercontent.com/240546545/637047480-e5658032-d1e7-416f-a16d-5edc0c737f9d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY5ODQwMDYsIm5iZiI6MTc4Njk4MzcwNiwicGF0aCI6Ii8yNDA1NDY1NDUvNjM3MDQ3NDgwLWU1NjU4MDMyLWQxZTctNDE2Zi1hMTZkLTVlZGMwYzczN2Y5ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxN1QxNjIxNDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mM2I5MDEyZDJjNTU2ODAxYjQwNTU1YWVmMzc5YjRiM2E2ODA0MmJiYWE0MTg2NjAzNmYzY2ExODRjZDVhY2U2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.c3MEFX1ZAzJqgoA69ouWhTgu9ly9WNwBifvAq2K--pQ" alt="Hyacine" />
 
-<br/>
+  <!-- Right Side Container -->
+  <div align="center" style="display: inline-block; width: 42%;">
+    
+    
+  <br><br><br><br><br>
 
-<table border="0" cellspacing="0" cellpadding="0" style="border: none !important; background: transparent !important;">
-  <tr style="border: none !important; background: transparent !important;">
+    
+  <p>
+      <a href="https://hyacinthiia.atabook.org"><i><b>atabook</b></i></a> · 
+      <a href="https://guns.lol/hyacinned"><i><b>guns.lol</b></i></a> · 
+      <a href="http://hyacinthiia.straw.page"><i><b>strawpage</b></i></a>
+    </p>
 
-  <td align="center" valign="middle" style="border: none !important; padding-right: 30px;">
+  <br><br>
 
-   <p>
-        <a href="https://laherta.atabook.org/"><font color="#801D38"><i><b>a t a b o o k</b></i></font></a> ·
-        <a href="https://guns.lol/madamhertaa"><font color="#87CBB9"><i><b>g u n s . l o l</b></i></font></a> ·
-        <a href="https://thehertaz.straw.page"><font color="#E2F6FF"><i><b>s t r a w p a g e</b></i></font></a>
-      </p>
+   
+  <p>
+      $\large\textsf{\color{#4C333D}A}\textsf{\color{#4C333D}.}\textsf{\color{#613945}m}\textsf{\color{#613945}.}\textsf{\color{#753F4C}p}\textsf{\color{#753F4C}.}\textsf{\color{#8A4452}h}\textsf{\color{#8A4452}.}\textsf{\color{#9F4A59}o}\textsf{\color{#9F4A59}.}\textsf{\color{#B4505F}r}\textsf{\color{#B4505F}.}\textsf{\color{#C26A63}e}\textsf{\color{#C26A63}.}\textsf{\color{#C19A66}u}\textsf{\color{#C19A66}.}\textsf{\color{#E2F592}s}$
+    </p>
 
-  <br/><br/>
+  <br>
 
-   <p>
-${\textsf{\color{#84468c}H}}{\textsf{\color{#84468c}e}}{\textsf{\color{#84468c}r}}{\textsf{\color{#916397}t}}{\textsf{\color{#916397}a}}{\textsf{\color{#916397}.}}{\textsf{\color{#ddab78}S}}{\textsf{\color{#ddab78}p}}{\textsf{\color{#ddab78}a}}{\textsf{\color{#e2c292}c}}{\textsf{\color{#e2c292}e}}{\textsf{\color{#e2c292}.}}{\textsf{\color{#f1d6aa}S}}{\textsf{\color{#f1d6aa}t}}{\textsf{\color{#f1d6aa}a}}{\textsf{\color{#e4ded4}t}}{\textsf{\color{#e4ded4}i}}{\textsf{\color{#e4ded4}o}}{\textsf{\color{#ddab78}n}}$
-      </p>
+   
+  <p>
+      $\Large\textsf{\color{#4C333D}"\ }\textsf{\color{#613945}重}\textsf{\color{#753F4C}见}\textsf{\color{#8A4452}澄}\textsf{\color{#9F4A59}澈}\textsf{\color{#B4505F}晴}\textsf{\color{#C26A63}空}\textsf{\color{#C19A66}！}\textsf{\color{#E2F592}\ "}$
+    </p>
 
-  <br/><br/>
+  <br><br>
 
-   <p>
-${\textsf{\color{#84468c}"\ }}{\textsf{\color{#84468c}谜}}{\textsf{\color{#84468c}底}}{\textsf{\color{#ddab78}确}}{\textsf{\color{#ddab78}是}}{\textsf{\color{#ddab78}\ ...\ }}{\textsf{\color{#f1d6aa}乌}}{\textsf{\color{#f1d6aa}有}}{\textsf{\color{#f1d6aa}之}}{\textsf{\color{#e4ded4}物}}{\textsf{\color{#e4ded4}。\ "}}$
-      </p>
+  
+  <p>
+      <img src="https://komarev.com/ghpvc/?username=killuafann&label=angels%E2%99%A1&color=C26A63&style=flat" alt="angels counter" />
+    </p>
 
-  <br/><br/>
-
-   <img src="https://komarev.com/ghpvc/?username=hertapilled&color=84468c&style=flat-square" alt="profile views" />
-
-   </td>
-
-  <td align="center" valign="middle" style="border: none !important;">
-      <img src="https://private-user-images.githubusercontent.com/228995264/634931148-35f1cfd1-b11e-40b8-940e-759291a90c0f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY1NDkwNzUsIm5iZiI6MTc4NjU0ODc3NSwicGF0aCI6Ii8yMjg5OTUyNjQvNjM0OTMxMTQ4LTM1ZjFjZmQxLWIxMWUtNDBiOC05NDBlLTc1OTI5MWE5MGMwZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxMlQxNTMyNTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYzgxNTQ4NzU0ZDRiZWNiZDRjYmEzNGU3NWQ4ODU1YTk4NzhlOTE1OTVmYjA4NGExZTU1OGQ5ZDc4ZTRjYjgxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.ro14Ov2-6taJGlffi8W-spD-rtEJwWXYsJUv_Y-jAQk" width="400" alt="The Herta" />
-    </td>
-
-  </tr>
-</table>
-
-<br/>
-
-<p><font color="#E2F6FF">══════════════════════════════════════════════════════════════</font></p>
+  </div>
 
 </div>
 
-
-
-
-<p align="center">
-  <img src="./void.svg" alt="Void" />
-</p>
-
+<br clear="all" />
 
