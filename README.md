@@ -35,7 +35,7 @@
 
   
   <p>
-      <img src="https://komarev.com/ghpvc/?username=killuafann&label=angels%E2%99%A1&color=C26A63&style=flat" alt="angels counter" />
+      <img src="https://komarev.com/ghpvc/?username=killuafann&label=angels%E2%99%A1&color=C26A63&style=flat" alt="angels  counter" />
     </p>
 
   </div>
